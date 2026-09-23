@@ -1,2 +1,2 @@
 # DataAnalyst-Python
-store the python soruce programs 
+Store the python soruce programs 
